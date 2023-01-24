@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there and welcome 👋
 
 ***
 
+My name is Martin Bolle. I'm 26 years old and come from Lofoten. Currently I'm studying computer science at Oslo Metropolitan University. 
 
+* 📫 Reach Out at: <a href="mailto:martin.bolle97@hotmail.com">martin.bolle97@hotmail.com</a>
 
-
-Mitt navn er Martin Bolle. Jeg er 26 år gammel, kommer fra Lofoten og studerer dataingeniør ved Oslo Metropolitan Universitet
-
-* 📫 Hvordan kontakte meg: <a href="mailto:martin.bolle97@hotmail.com"></a>
-
-<h2>Or find me Elsewhere 💬</h2>
+#### Or find me Elsewhere 💬
 <a href="https://www.linkedin.com/in/martin-bolle/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
