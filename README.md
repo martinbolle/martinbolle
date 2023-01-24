@@ -7,7 +7,7 @@
 
 Mitt navn er Martin Bolle. Jeg er 26 år gammel, kommer fra Lofoten og studerer dataingeniør ved Oslo Metropolitan Universitet
 
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<img href="martin.bolle@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 * 📫 Hvordan kontakte meg: martin.bolle97@hotmail.com
 
 
