@@ -10,7 +10,7 @@ Mitt navn er Martin Bolle. Jeg er 26 år gammel, kommer fra Lofoten og studerer 
 * 📫 Hvordan kontakte meg: <a href="mailto:martin.bolle97@hotmail.com"></a>
 
 <h2>Or find me Elsewhere 💬</h2>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-bolle/)](https://www.linkedin.com/in/martin-bolle/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-bolle/)
 
 <!--
 <img src="{https://www.linkedin.com/in/martin-bolle/}"/>
