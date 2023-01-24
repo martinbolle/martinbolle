@@ -1,10 +1,8 @@
-<ins>### Hi there 👋</ins>
+### Hi there 👋
 
+***
 
-
-<img src="https://www.linkedin.com/in/martin-bolle/" ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)/>
-
-Mitt navn er Martin Bolle. Jeg studerer dataingeniør ved Oslo Metropolitan Universitet
+Mitt navn er Martin Bolle. Jeg er 26 år gammel kommer fra Lofoten og studerer dataingeniør ved Oslo Metropolitan Universitet
 <!--
 <img src="{https://www.linkedin.com/in/martin-bolle/}"/>
 Here are some ideas to get you started:
