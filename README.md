@@ -1,8 +1,10 @@
 <ins>### Hi there 👋</ins>
 
+<img src="{![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)}" />
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-<!--
+
 Mitt navn er Martin Bolle. Jeg studerer dataingeniør ved Oslo Metropolitan Universitet
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
