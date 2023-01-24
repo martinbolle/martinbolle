@@ -1,11 +1,12 @@
 <ins>### Hi there 👋</ins>
 
-<img src="{linkedin.com/martin-bolle}" />
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<img src="https://www.linkedin.com/in/martin-bolle/" ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)/>
 
 Mitt navn er Martin Bolle. Jeg studerer dataingeniør ved Oslo Metropolitan Universitet
 <!--
+<img src="{https://www.linkedin.com/in/martin-bolle/}"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
