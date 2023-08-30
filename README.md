@@ -2,7 +2,8 @@
 
 ***
 
-My name is Martin Bolle. I'm 26 years old and come from Lofoten. Currently I'm studying computer science at Oslo Metropolitan University. 
+My name is Martin Bolle. I'm 26 years old and come from Lofoten. I recently finished my bachelor degree in computer science at Oslo Metropolitan University. 
+Currently I'm taking my Master's degree in informatics (Programming and system architecture) at the University in Oslo. 
 
 * 📫 Reach Out at: <a href="mailto:martin.bolle97@hotmail.com">martin.bolle97@hotmail.com</a>
 
